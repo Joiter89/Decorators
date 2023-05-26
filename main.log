@@ -1,0 +1,36 @@
+
+Name function: hello_world
+current date: 26/05/2023 20:25:39
+arguments: () and {}
+function return: Hello World
+
+Name function: summator
+current date: 26/05/2023 20:25:39
+arguments: (2, 2) and {}
+function return: 4
+
+Name function: div
+current date: 26/05/2023 20:25:39
+arguments: (6, 2) and {}
+function return: 3.0
+
+Name function: summator
+current date: 26/05/2023 20:25:39
+arguments: (4.3,) and {'b': 2.2}
+function return: 6.5
+
+Name function: summator
+current date: 26/05/2023 20:25:39
+arguments: () and {'a': 0, 'b': 0}
+function return: 0
+
+
+
+Name function: get_temperature
+current date: 26/05/2023 20:30:57
+arguments: ('Moscow,RU', '9d62e57ada18b760c296d39a1deea438') and {}
+function return: Погодные условия в Москве:
+ {'temp': 21.12, 'temp_max': 21.29, 'temp_min': 20.08, 'feels_like': 20.8, 'temp_kf': None},
+ broken clouds,
+ {'speed': 1.61, 'deg': 269, 'gust': 1.84},
+ 58
